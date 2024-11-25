@@ -9,7 +9,7 @@
  */
 public class App
 {
-
+//This is the new comment so that trigger in jenkins will get triggered.
     private final String message = "Hello World!";
 
     public App() {}
