@@ -1,12 +1,10 @@
  package com.mycompany.app;
-
-/**
- * Hello world!!
+//* Hello world!!
  * *
  * Author: Bikal KC
  * Student ID: C0929675
  * Date of Submission: Nov 27th, 2024
- */
+ 
 public class App
 {
 //This is the new comment so that trigger in jenkins will get triggered.
